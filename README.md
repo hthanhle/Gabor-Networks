@@ -4,9 +4,11 @@ This project proposes a new light-weight Bayesian Gabor Network for camera-based
 suitable for real-time operations on edge computers.
 
 ![alt_text](/image/no_arm_swinging.jpg) ![alt_text](/image/stft_0_arm.jpg) ![alt_text](/image/smethod_0_arm.jpg) ![alt_text](/image/cwt_0_arm.jpg)
+
 ![alt_text](/image/one_arm_swinging.jpg) ![alt_text](/image/stft_1_arm.jpg) ![alt_text](/image/smethod_1_arm.jpg) ![alt_text](/image/cwt_1_arm.jpg)
+
 ![alt_text](/image/two_arm_swinging.jpg) ![alt_text](/image/stft_2_arm.jpg) ![alt_text](/image/smethod_2_arm.jpg) ![alt_text](/image/cwt_2_arm.jpg)
-**Figure 1.** Examples of pedestrian lane-detection results
+**Figure 1.** A subject walking with three motion types towards the radar system and the corresponding signal representations.
 
 ## Quick start
 ### Installation
