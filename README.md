@@ -3,9 +3,9 @@
 This project proposes a new light-weight Bayesian Gabor Network for camera-based detection of pedestrian lanes in unstructured scenes. The proposed method is fast, compact, and
 suitable for real-time operations on edge computers.
 
-![alt_text](/output/no_arm_swinging.jpg) ![alt_text](/output/stft_0_arm.jpg) ![alt_text](/output/smethod_0_arm.jpg) ![alt_text](/output/cwt_0_arm.jpg)
-![alt_text](/output/one_arm_swinging.jpg) ![alt_text](/output/stft_1_arm.jpg) ![alt_text](/output/smethod_1_arm.jpg) ![alt_text](/output/cwt_1_arm.jpg)
-![alt_text](/output/two_arm_swinging.jpg) ![alt_text](/output/stft_2_arm.jpg) ![alt_text](/output/smethod_2_arm.jpg) ![alt_text](/output/cwt_2_arm.jpg)
+![alt_text](/image/no_arm_swinging.jpg) ![alt_text](/image/stft_0_arm.jpg) ![alt_text](/image/smethod_0_arm.jpg) ![alt_text](/image/cwt_0_arm.jpg)
+![alt_text](/image/one_arm_swinging.jpg) ![alt_text](/image/stft_1_arm.jpg) ![alt_text](/image/smethod_1_arm.jpg) ![alt_text](/image/cwt_1_arm.jpg)
+![alt_text](/image/two_arm_swinging.jpg) ![alt_text](/image/stft_2_arm.jpg) ![alt_text](/image/smethod_2_arm.jpg) ![alt_text](/image/cwt_2_arm.jpg)
 **Figure 1.** Examples of pedestrian lane-detection results
 
 ## Quick start
