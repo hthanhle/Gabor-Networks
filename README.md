@@ -3,11 +3,11 @@
 This project proposes a new light-weight Bayesian Gabor Network for camera-based detection of pedestrian lanes in unstructured scenes. The proposed method is fast, compact, and
 suitable for real-time operations on edge computers.
 
-![alt_text](/image/no_arm_swinging.jpg) ![alt_text](/image/stft_0_arm.jpg) ![alt_text](/image/smethod_0_arm.jpg) ![alt_text](/image/cwt_0_arm.jpg)
+![alt_text](/image/no_arm_swinging.jpg) ![alt_text](/image/stft_0_arm.png) ![alt_text](/image/smethod_0_arm.png) ![alt_text](/image/cwt_0_arm.png)
 
-![alt_text](/image/one_arm_swinging.jpg) ![alt_text](/image/stft_1_arm.jpg) ![alt_text](/image/smethod_1_arm.jpg) ![alt_text](/image/cwt_1_arm.jpg)
+![alt_text](/image/one_arm_swinging.jpg) ![alt_text](/image/stft_1_arm.png) ![alt_text](/image/smethod_1_arm.png) ![alt_text](/image/cwt_1_arm.png)
 
-![alt_text](/image/two_arm_swinging.jpg) ![alt_text](/image/stft_2_arm.jpg) ![alt_text](/image/smethod_2_arm.jpg) ![alt_text](/image/cwt_2_arm.jpg)
+![alt_text](/image/two_arm_swinging.jpg) ![alt_text](/image/stft_2_arm.png) ![alt_text](/image/smethod_2_arm.png) ![alt_text](/image/cwt_2_arm.png)
 
 **Figure 1.** A subject walking with three motion types (no-arm swinging, one-arm swinging, and two-arms swinging) towards the radar system and the corresponding signal representations. Column 2: by Short-time Fourier Transform. Column 3: by Smethod. Column 4: by Continous Wavelet Transform.
 
