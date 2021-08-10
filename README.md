@@ -9,7 +9,7 @@ suitable for real-time operations on edge computers.
 
 ![alt_text](/image/two_arm_swinging.jpg) ![alt_text](/image/stft_2_arm.jpg) ![alt_text](/image/smethod_2_arm.jpg) ![alt_text](/image/cwt_2_arm.jpg)
 
-**Figure 1.** A subject walking with three motion types towards the radar system and the corresponding signal representations.
+**Figure 1.** A subject walking with three motion types (no-arm swinging, one-arm swinging, and two-arms swinging) towards the radar system and the corresponding signal representations. Column 2: by Short-time Fourier Transform. Column 3: by Smethod. Column 4: by Continous Wavelet Transform.
 
 ## Quick start
 ### Installation
