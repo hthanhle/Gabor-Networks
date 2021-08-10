@@ -1,4 +1,13 @@
 # Fast and Compact Deep Gabor Network for Micro-Doppler Signal Processing and Human Motion Classification
+## Descriptions
+This project proposes a new light-weight Bayesian Gabor Network for camera-based detection of pedestrian lanes in unstructured scenes. The proposed method is fast, compact, and
+suitable for real-time operations on edge computers.
+
+![alt_text](/output/no_arm_swinging.jpg) ![alt_text](/output/stft_0_arm.jpg) ![alt_text](/output/smethod_0_arm.jpg) ![alt_text](/output/cwt_0_arm.jpg)
+![alt_text](/output/one_arm_swinging.jpg) ![alt_text](/output/stft_1_arm.jpg) ![alt_text](/output/smethod_1_arm.jpg) ![alt_text](/output/cwt_1_arm.jpg)
+![alt_text](/output/two_arm_swinging.jpg) ![alt_text](/output/stft_2_arm.jpg) ![alt_text](/output/smethod_2_arm.jpg) ![alt_text](/output/cwt_2_arm.jpg)
+**Figure 1.** Examples of pedestrian lane-detection results
+
 ## Quick start
 ### Installation
 1. Install Tensorflow=1.13.1 and Keras=2.2.4 following [the official instructions](https://www.tensorflow.org/install/pip)
