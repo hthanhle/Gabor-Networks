@@ -1,6 +1,6 @@
 # Fast and Compact Deep Gabor Network for Micro-Doppler Signal Processing and Human Motion Classification
 ## Descriptions
-This project proposes a new light-weight Bayesian Gabor Network for camera-based detection of pedestrian lanes in unstructured scenes. The proposed method is fast, compact, and
+We propose a new light-weight Bayesian Gabor Network for camera-based detection of pedestrian lanes in unstructured scenes. The proposed method is fast, compact, and
 suitable for real-time operations on edge computers.
 
 ![alt_text](/image/no_arm_swinging.jpg) ![alt_text](/image/stft_0_arm.png) ![alt_text](/image/smethod_0_arm.png) ![alt_text](/image/cwt_0_arm.png)
