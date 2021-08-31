@@ -31,7 +31,17 @@ Please specify the configuration file.
 
 ## Citation
 If you find this work or code is helpful for your research, please cite:
-
+```
+@ARTICLE{9519700,
+  author={Le, Hoang Thanh and Phung, Son Lam and Bouzerdoum, Abdesselam},
+  journal={IEEE Sensors Journal}, 
+  title={A Fast and Compact Deep Gabor Network for Micro-Doppler Signal Processing and Human Motion Classification}, 
+  year={2021},
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/JSEN.2021.3106300}}
+```
 
 ## Reference
 
